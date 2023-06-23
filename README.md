@@ -18,9 +18,10 @@ To download Dataset you can use this link: [Click Here](https://data-seattlecity
 ```Codes``` folder contains all scripts used to train and test models. More details on how to train and test the code is mentioned inside ```Codes``` folder.
 
 <br/>
-\
-\
-\
+
+
+
+
 **Citation Request:** 
 
 Niyogisubizo J, Liao L, Lin Y, Luo L, Nziyumva E, Murwanashyaka E. A Novel Stacking Framework Based On Hybrid of Gradient Boosting-Adaptive Boosting-Multilayer Perceptron for Crash Injury Severity Prediction and Analysis. In2021 IEEE 4th International Conference on Electronics and Communication Engineering (ICECE) 2021 Dec 17 (pp. 352-356). IEEE. https://doi.org/10.1109/ICECE54449.2021.9674567.
